@@ -1,0 +1,1 @@
+in this folder there are answers to 0x00 shell project  ALX
